@@ -1,0 +1,70 @@
+[
+    {
+        "merged": "C:\\Users\\Gael Quintero\\.gradle\\daemon\\8.9\\com.example.appimagenes.app-debug-52:\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\Gael Quintero\\.gradle\\daemon\\8.9\\com.example.appimagenes.app-main-54:\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\Gael Quintero\\.gradle\\daemon\\8.9\\com.example.appimagenes.app-debug-52:\\drawable_fondo7.jpg.flat",
+        "source": "C:\\Users\\Gael Quintero\\.gradle\\daemon\\8.9\\com.example.appimagenes.app-main-54:\\drawable\\fondo7.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Gael Quintero\\.gradle\\daemon\\8.9\\com.example.appimagenes.app-debug-52:\\drawable_fondo6.jpg.flat",
+        "source": "C:\\Users\\Gael Quintero\\.gradle\\daemon\\8.9\\com.example.appimagenes.app-main-54:\\drawable\\fondo6.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Gael Quintero\\.gradle\\daemon\\8.9\\com.example.appimagenes.app-debug-52:\\drawable_fondo5.jpg.flat",
+        "source": "C:\\Users\\Gael Quintero\\.gradle\\daemon\\8.9\\com.example.appimagenes.app-main-54:\\drawable\\fondo5.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Gael Quintero\\.gradle\\daemon\\8.9\\com.example.appimagenes.app-debug-52:\\drawable_fondo8.jpg.flat",
+        "source": "C:\\Users\\Gael Quintero\\.gradle\\daemon\\8.9\\com.example.appimagenes.app-main-54:\\drawable\\fondo8.jpg"
+    },
+    {
+        "merged": "com.example.appimagenes.app-debug-52:/mipmap-xhdpi_ic_channel_tv_foreground.png.flat",
+        "source": "com.example.appimagenes.app-main-54:/mipmap-xhdpi/ic_channel_tv_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\Gael Quintero\\.gradle\\daemon\\8.9\\com.example.appimagenes.app-debug-52:\\drawable_fondo10.jpg.flat",
+        "source": "C:\\Users\\Gael Quintero\\.gradle\\daemon\\8.9\\com.example.appimagenes.app-main-54:\\drawable\\fondo10.jpg"
+    },
+    {
+        "merged": "com.example.appimagenes.app-debug-52:/drawable_ic_channel_tv_background.xml.flat",
+        "source": "com.example.appimagenes.app-main-54:/drawable/ic_channel_tv_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\Gael Quintero\\.gradle\\daemon\\8.9\\com.example.appimagenes.app-debug-52:\\drawable_fondo1.jpg.flat",
+        "source": "C:\\Users\\Gael Quintero\\.gradle\\daemon\\8.9\\com.example.appimagenes.app-main-54:\\drawable\\fondo1.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Gael Quintero\\.gradle\\daemon\\8.9\\com.example.appimagenes.app-debug-52:\\drawable_fondo2.jpg.flat",
+        "source": "C:\\Users\\Gael Quintero\\.gradle\\daemon\\8.9\\com.example.appimagenes.app-main-54:\\drawable\\fondo2.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Gael Quintero\\.gradle\\daemon\\8.9\\com.example.appimagenes.app-debug-52:\\drawable_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\Gael Quintero\\.gradle\\daemon\\8.9\\com.example.appimagenes.app-main-54:\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "com.example.appimagenes.app-debug-52:/mipmap-anydpi-v26_ic_channel_tv.xml.flat",
+        "source": "com.example.appimagenes.app-main-54:/mipmap-anydpi-v26/ic_channel_tv.xml"
+    },
+    {
+        "merged": "C:\\Users\\Gael Quintero\\.gradle\\daemon\\8.9\\com.example.appimagenes.app-debug-52:\\drawable_fondo3.jpg.flat",
+        "source": "C:\\Users\\Gael Quintero\\.gradle\\daemon\\8.9\\com.example.appimagenes.app-main-54:\\drawable\\fondo3.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Gael Quintero\\.gradle\\daemon\\8.9\\com.example.appimagenes.app-debug-52:\\drawable_fondo9.jpg.flat",
+        "source": "C:\\Users\\Gael Quintero\\.gradle\\daemon\\8.9\\com.example.appimagenes.app-main-54:\\drawable\\fondo9.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Gael Quintero\\.gradle\\daemon\\8.9\\com.example.appimagenes.app-debug-52:\\drawable_fondo4.jpg.flat",
+        "source": "C:\\Users\\Gael Quintero\\.gradle\\daemon\\8.9\\com.example.appimagenes.app-main-54:\\drawable\\fondo4.jpg"
+    },
+    {
+        "merged": "com.example.appimagenes.app-debug-52:/mipmap-xhdpi_ic_channel_tv.png.flat",
+        "source": "com.example.appimagenes.app-main-54:/mipmap-xhdpi/ic_channel_tv.png"
+    },
+    {
+        "merged": "C:\\Users\\Gael Quintero\\.gradle\\daemon\\8.9\\com.example.appimagenes.app-debug-52:\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\Gael Quintero\\.gradle\\daemon\\8.9\\com.example.appimagenes.app-main-54:\\mipmap-anydpi-v26\\ic_launcher.xml"
+    }
+]

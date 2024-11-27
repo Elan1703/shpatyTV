@@ -1,0 +1,20 @@
+R_DEF: Internal format may change without notice
+local
+drawable fondo1
+drawable fondo10
+drawable fondo2
+drawable fondo3
+drawable fondo4
+drawable fondo5
+drawable fondo6
+drawable fondo7
+drawable fondo8
+drawable fondo9
+drawable ic_channel_tv_background
+drawable ic_launcher_background
+mipmap ic_channel_tv
+mipmap ic_channel_tv_foreground
+mipmap ic_launcher
+mipmap ic_launcher_round
+string app_name
+style Theme.AppImagenes
